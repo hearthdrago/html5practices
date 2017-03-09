@@ -1,0 +1,21 @@
+nav{
+	display: inline-block;
+	width: 750px;
+	text-align: right;
+}
+
+div h1, img{
+	text-align:center;
+	font-family: arial;
+
+	
+}
+
+body {
+    background-color: lightblue;
+}
+
+p{
+	font-size: 0.900em;
+	text-align:justify;
+}

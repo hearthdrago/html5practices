@@ -1,0 +1,55 @@
+body{
+	background: black;
+	margin: auto;
+	background-repeat: repeat-y;
+}
+header, h1, h2{
+	text-align: center;
+	margin-top: 15px;
+	font-family:"Trebuchet MS", arial, sans-self;
+	color:white;
+}
+nav a{  /*se esta agregando el formato para los links*/
+	font-size: inline-block;
+	margin-right: 20px;
+}
+
+nav{
+	display: inline-block;
+	width: 750px;
+	text-align: center;
+}
+nav a{
+  	font-size: 1.6em;
+	color: red;
+	padding-bottom: 4px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #760001;
+	border-bottom: 4px solid #760001;
+}
+
+p{
+    text-align:center; 
+	color: white;
+}
+
+h3{
+	  text-align: justify-all;
+      color : white;
+      padding : 0em;
+	  margin : 4em;
+      border-style:inset; 
+	 
+}
+
+a{
+	text-align:left;
+	color: white;
+	font-size: 1.6em;
+	padding-bottom: 4px;
+	text-decoration: none;
+}
+

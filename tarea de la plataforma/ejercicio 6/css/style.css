@@ -1,0 +1,51 @@
+body{
+	background-color: maroon;
+}
+header img{
+	width: 200px;
+	height: 100px;
+	display: inline;
+}
+header h1{
+	font-style: inherit;
+	background-color: black;
+	color: white;
+	font-size: 60px;
+	text-align: center;
+}
+
+header h2{
+	text-align: right;
+	font-style: italic;
+	display: inline;
+}
+#header{
+	display: inline;
+}
+nav{
+	text-align: center;
+	background-color: black;
+	font-size: 20px;
+	border-style: outset;
+	border: solid;
+	border-color: black;
+}
+nav a{
+	color: white;
+}
+section p{
+	font-size: 20px;
+	text-align:justify;
+}
+section img{
+	width: 400px;
+	height: 300px;
+}
+hr{
+	color: black;
+	border: solid;
+}
+footer p{
+	font-style: inherit;
+	text-align: center;
+}

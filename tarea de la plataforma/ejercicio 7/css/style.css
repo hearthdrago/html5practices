@@ -1,0 +1,51 @@
+body{
+       background: black;
+   }
+@font-face
+{
+	font-family: 'Dayrom'
+	src: url('fonts/dayrom.eot');
+	src: url('fonts/dayrom.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/dayrom.woff') format('woff'),
+	     url('fonts/dayrom.ttf') format('truetype'),
+	     url('fonts/dayrom.svg# BallparWeiner') format('svg')
+
+	font-weigth: normal;
+	font-style: normal;
+}
+@font-face
+{
+	font-family: 'BallparWeiner'
+	src: url('fonts/ballpark.eot');
+	src: url('fonts/ballpark.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/ballpark.woff') format('woff'),
+	     url('fonts/ballpark.ttf') format('truetype'),
+	     url('fonts/ballpark.svg# BallparWeiner') format('svg')
+
+	     font-weigth: normal;
+	     font-style: normal;
+
+}
+header h1{
+	text-align: center;
+	color: black;
+}
+header{
+	background-color: dodgerblue;
+}
+#info h2{
+	color: dodgerblue;
+	font-family: 'Dayrom', serif;
+}
+section p{
+	display: inline-block;
+	width: 30%;
+	color:dodgerblue;
+}
+body{
+	border: solid;
+	border-style: outset;
+	border-width: 10px;
+	border-color: dodgerblue;
+	padding: 10px;
+}

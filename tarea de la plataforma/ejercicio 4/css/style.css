@@ -1,0 +1,41 @@
+header img{
+	text-align: left;
+	width: 100px;
+	height: 100px;
+}
+header h1{
+	text-align: right;
+	color: blue;
+}
+header h2{
+	text-align: right;
+	color: blue;
+}
+#titulo, header h1{
+
+}
+#navegador{
+	text-align: center;
+	background-color: #DADADA;
+	border-style: outset;
+}
+section div{
+	border: solid;
+	border-color: black;
+	border-width: 2px;
+}
+section img{
+	height: 100px;
+	width: 100px;
+}
+section h1{
+	text-align: right;
+	color: blue;
+	font-size: 30px;
+}
+#partner{
+	border: solid;
+	border-width: 2px;
+	background:#DADADA;
+	border-color: grey;
+}
